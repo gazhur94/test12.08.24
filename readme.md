@@ -13,7 +13,7 @@
 1. Create file `input.txt` with content in the root of the project:
 2. Run the script
     ```bash
-    php app.php index.php
+    php app.php input.txt
     ```
    
 ## Testing
